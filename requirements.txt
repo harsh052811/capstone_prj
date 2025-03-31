@@ -23,3 +23,7 @@ sentence-transformers
 nltk
 langchain-community
 phidata
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
